@@ -17,7 +17,7 @@ and 2) AI From The Data Center To The Edge – An Optimized Path Using Intel® A
 An internship in which I built/developed applications and programs that included the AI-ML, primarily in the medical field. <br />
 Learned how the computer vision and NLP are used in real world applications and in the area of medical tools and software (Android/Web/Cloud).<br /><br />
 
-- 💻 Skills: 
+- 💻 Skills: <br />
 C/C++,  Python,  Java,  JS  <br />
 Progamming language is a bridge between your thoughs and the computer, not a barrier<br />
 Machine Learning - Artificial Intelligence,  DBMS<br />
