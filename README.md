@@ -29,7 +29,7 @@ Image Processing,  Data Analytics,  Data Mining, Web-scrapping<br /><br />
 - 📫 How to reach me.<br />
 G-mail    : nmndv1024@gmail.com<br />
 Twitter   : @NMNDV<br />
-Instagram : naman1239dave<br /><br />
+Instagram : nmndv<br /><br />
 
 - My other github accounts are: @Naman1233, and @CarbonDDR (collage purpose)
 <!---
